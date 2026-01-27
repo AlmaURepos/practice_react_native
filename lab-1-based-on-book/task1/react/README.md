@@ -1,0 +1,2 @@
+- In jquery used html + jquery for impeartive version, DOM manipulated with toggleClass
+- Using React, no direct DOM only useState component
